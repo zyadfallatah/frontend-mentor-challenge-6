@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  font-size: 15px;
+}
+
+@font-face {
+  font-family: "Inter-VariableFont";
+  src: url("../assets/fonts/Inter-VariableFont_slnt_wght.ttf");
+}
